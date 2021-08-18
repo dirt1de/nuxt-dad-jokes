@@ -1,6 +1,5 @@
 <template>
 <div>
- <h1>This is the Jokes page</h1>
   <Jokes/>
 </div>
  
